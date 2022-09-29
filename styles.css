@@ -1,0 +1,29 @@
+
+body {
+    font-family: Roboto, sans-serif;
+    margin: 20px;
+}
+
+.imagem {
+    width: 150px;
+    margin-left: 15px;
+}
+
+.card {
+    background: #ddebf8;
+    color: #2b2839  ;
+    border-radius: 5px;
+    border-bottom: 6px #d8cefe solid;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    text-align: center;
+
+}
+
+.conteudo {
+    margin-left: 15px;
+
+}
